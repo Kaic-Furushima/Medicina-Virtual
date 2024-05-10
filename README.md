@@ -1,3 +1,19 @@
-Código do Website utilizado no meu Trabalho de Conclusão de Curso no Ensino Médio Integrado ao Curso Técnico de Automação Industrial no IFSP no ano de 2023.
+# Website Medicina Virtual
 
-Foi meu primeiro código desenvolvido utilizando HTML, CSS, Javascript e Firebase.
+## 💻 Tecnologias utilizadas no projeto
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap 5
+
+## ✨ Motivação
+Desenvolver uma interface para visualização dos dados armazenados no banco de dados.
+
+O projeto de TCC tinha por fim, montar um dispositivo capaz de medir os sinais vitais de um paciente, enviá-los a um banco de dados, e fazer a visualização dos dados por uma interface.
+
+<p align="center">
+  <img src="https://github.com/Kaic-Furushima/Medicina-Virtual/blob/main/Molde.png" alt="Estrutura do Projeto">
+</p>
+
+
