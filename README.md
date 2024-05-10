@@ -8,7 +8,7 @@
 - Bootstrap 5
 
 ## ✨ Motivação
-Meu primeiro contato com frontend.
+Meu primeiro contato com frontend. /
 Tinha por objetivo desenvolver uma interface para visualização dos dados armazenados no banco de dados.
 
 O projeto de TCC tinha por fim, montar um dispositivo capaz de medir os sinais vitais de um paciente, enviá-los a um banco de dados, e fazer a visualização dos dados por uma interface.
